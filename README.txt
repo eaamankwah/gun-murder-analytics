@@ -1,7 +1,8 @@
-We analyze US gun murder data collected by the FBI.
+The following tasks were completed:
+Analyzed US gun murder data collected by the FBI.
 
-download-data.R - dowloads csv file to data directory
+download-data.R - dowloaded csv file to data directory
 
-wrangle-dat.R - creates a derived dataset and saves as R object in rda directory
+wrangle-dat.R - created a derived dataset and saves as R object in rda directory
 
-analysis.R - generates a plot and saves it to the figs directory
+analysis.R - generated a plot and saved it to the figs directory
